@@ -28,14 +28,16 @@ A simple and responsive Weather App built using **React** and the **OpenWeatherM
 ```bash
 git clone https://github.com/ShivaniAgarwal01/WeatherApp.git
 cd WeatherApp
-
-
+ ```
+ 
 ### 2.Install dependencies
 ```bash
 npm i
+```
 
 ### 3.Create .env file
 Make .env file in the root directory and add your OpenWeatherMap API key:
 ```bash
 VITE_APP_ID=your_api_key_here
 npm run dev
+```
